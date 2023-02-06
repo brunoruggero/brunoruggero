@@ -26,5 +26,6 @@
 ##
 
 <div>
-     ![Snake animation](https://github.com/brunoruggero/brunoruggero/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/brunoruggero/brunoruggero/blob/2708e3f0da5b51a2953ab4cfe7fa2aac61efbd7b/github-contribution-grid-snake.svg)
+     
 </div>
