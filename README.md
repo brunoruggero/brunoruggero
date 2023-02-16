@@ -1,4 +1,4 @@
-<h1> Olá, eu sou o Bruno Ruggero. 👋🏻</h1>
+<h1> Hi, I'm Bruno Ruggero. 👋🏻</h1>
 <h6> Software engineer and Web Developer</h6>
 
 
@@ -15,7 +15,7 @@
 
 ##
 
-##### **🖥️** Tecnologias e Ferramentas
+##### **🖥️** Technologies & Tools
 
 <div style="display: inline_block">
 <img width="700px" src="https://skillicons.dev/icons?i=html,css,php,js,jquery,bootstrap,mysql,java,docker,git,github,gitlab,linux,wordpress" />
