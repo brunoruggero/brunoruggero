@@ -1,5 +1,5 @@
 <h1> Hi, I'm Bruno Ruggero. 👋🏻</h1>
-<h6> Software engineer and Web Developer</h6>
+<h6> Software engineer and Web Developer, graduated in Computer Engineering and Postgraduate in Software Engineering, with more than 10 years of experience in the technology area.</h6>
 
 
 <div style="text-align: center;">
